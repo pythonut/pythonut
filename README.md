@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pythonut
+- 👀 I’m interested in programming languages
+- 🌱 I’m currently learning Python
